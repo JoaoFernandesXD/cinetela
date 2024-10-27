@@ -1,9 +1,15 @@
+/* imports components */
+
+import Sidebar from "./components/sidebar/SideBar"
+
+
+
 function App() {
 
 
   return (
     <>
-      Cintela
+      <Sidebar></Sidebar>
     </>
   )
 }
