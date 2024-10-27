@@ -1,3 +1,6 @@
+import { SiFireship } from "react-icons/si";
+import { IoIosCalendar } from "react-icons/io";
+import { FaStar } from "react-icons/fa";
 
 /* import styles */
 import './SideBar.css'
@@ -20,10 +23,10 @@ function Sidebar(){
                         <li><a href="#home">FILMES</a></li>
                         <li><a href="#about">SERIES</a></li>
                     </ul>
-                    <ul>
-                        <li><a href="#home">RECENTES</a></li>
-                        <li><a href="#about">POPULARES</a></li>
-                        <li><a href="#about">MAIS AVALIADOS</a></li>
+                    <ul className="list_item_icon">
+                        <li><SiFireship /><a href="#about">POPULARES</a></li>
+                        <li><IoIosCalendar /><a href="#home">RECENTES</a></li>
+                        <li><FaStar /><a href="#about">MAIS AVALIADOS</a></li>
                     </ul>
                 </nav>
 
