@@ -1,7 +1,7 @@
 .container__sidebar {
     width: 100%;
     max-width: 235px;
-    height: 100vh;
+    height: 100%;
     background-color: var(--dark-20);
 }
 .container__logo {
