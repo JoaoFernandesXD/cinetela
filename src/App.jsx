@@ -2,10 +2,7 @@
 
 import Sidebar from "./components/sidebar/SideBar"
 
-
-
 function App() {
-
 
   return (
     <>
