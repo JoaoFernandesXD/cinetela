@@ -20,6 +20,7 @@ a {
     --color-dark: #161616;
     --dark-10: #131313;
     --dark-20: #191818;
+    --black-social: #0d0d0d;
 }
 body {
     background-color: var(--color-dark);
