@@ -9,7 +9,7 @@ Com ele, você pode:
 - Descobrir tendências do momento.  
 
 ## 🚀 Tecnologias  
-Este projeto foi construído com:  
+Este projeto Está sendo construído com:  
 - **Frontend**: React Js, Javascript, HTML, CSS 
 - **Backend**: Ainda em desenvolvimento
 - **API**: Será consumido da API themoviedb
