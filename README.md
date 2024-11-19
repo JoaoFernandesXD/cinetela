@@ -21,47 +21,47 @@ Este projeto Está sendo construído com:
 - Sistema de autenticação.  
 
 ## 🗂️ Estrutura do Projeto  
-\`\`\`
+
 src  
 ├── components  
 ├── pages  
 └── services  
-\`\`\`
+
 
 ## 📦 Instalação  
 Siga os passos abaixo para rodar o projeto localmente:  
 1. Clone este repositório:  
-   \`\`\`bash
+   ```bash
    git clone https://github.com/JoaoFernandesXD/cinetela.git
-   \`\`\`  
+   ```  
 2. Entre na pasta do projeto:  
-   \`\`\`bash
+   ```bash
    cd cinetela  
-   \`\`\`  
+   ```  
 3. Instale as dependências:  
-   \`\`\`bash
+   ```bash
    npm install  
-   \`\`\`  
+   ```  
 4. Execute o local:
-   \`\`\`bash
+   ```bash
    npm run dev 
-   \`\`\`  
+   ```  
 
 ## 📝 Contribuições  
 Contribuições são bem-vindas! Para começar:  
 1. Faça um fork do repositório.  
 2. Crie uma branch para sua feature/bugfix:  
-   \`\`\`bash
+   ```bash
    git checkout -b feature/nome-da-feature  
-   \`\`\`  
+   ```  
 3. Commit suas mudanças:  
-   \`\`\`bash
+   ```bash
    git commit -m "Descrição do commit"  
-   \`\`\`  
+   ```  
 4. Envie o código:  
-   \`\`\`bash
+   ```bash
    git push origin feature/nome-da-feature  
-   \`\`\`  
+   ```  
 5. Abra um Pull Request.  
 
 ## 🔗 Links Importantes  
