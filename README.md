@@ -29,22 +29,29 @@ src
 
 
 ## 📦 Instalação  
-Siga os passos abaixo para rodar o projeto localmente:  
-1. Clone este repositório:  
+Certifique-se de ter o **Node.js** e o **Vite** instalados no seu computador antes de continuar.  
+1. **Instale o Node.js**  
+   - Baixe e instale a versão LTS do [Node.js](https://nodejs.org/).  
+   - Após instalar, verifique a versão com:  
+     ```bash
+     node -v
+     npm -v
+     ```  
+2. **Clone este repositório:**  
    ```bash
    git clone https://github.com/JoaoFernandesXD/cinetela.git
    ```  
-2. Entre na pasta do projeto:  
+3. **Entre na pasta do projeto:**  
    ```bash
    cd cinetela  
    ```  
-3. Instale as dependências:  
+4. **Instale as dependências:**  
    ```bash
    npm install  
    ```  
-4. Execute o local:
+5. **Execute o servidor local:**  
    ```bash
-   npm run dev 
+   npm run dev  
    ```  
 
 ## 📝 Contribuições  
