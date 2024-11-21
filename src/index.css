@@ -12,6 +12,10 @@
 a { 
     color: currentColor;
     text-decoration: none;
+}
+nav ul li {
+    list-style:none;
+    cursor: pointer;
 } 
 :root {
     --color-white: #ffffff;
