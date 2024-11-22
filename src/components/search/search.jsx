@@ -1,6 +1,14 @@
+/* imports styles */
+
+import './search.css';
+
+
+
 function Search(){
     return(
-        <h1>Buscar</h1>
+       <div className='container__search'>
+
+       </div>
     )
 }
 
