@@ -9,7 +9,7 @@ import { FaYoutube } from "react-icons/fa";
 import './SideBar.css'
 
 /* import components */
-import Button from '../button/button';
+import Button from '../ButtonLogin/button';
 
 function Sidebar(){
     return(
