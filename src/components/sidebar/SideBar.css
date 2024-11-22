@@ -3,6 +3,7 @@
     max-width: 235px;
     height: 100%;
     background-color: var(--dark-20);
+    filter: drop-shadow(0 0 14.5px rgba(0,0,0,0.4));
 }
 .container__logo {
     width: 100%;

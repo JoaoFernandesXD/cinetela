@@ -1,15 +1,14 @@
 /* imports components */
-
-import Header from "./components/header/header"
+import Main from "./components/main/main"
 import Sidebar from "./components/sidebar/SideBar"
-import Search from "./components/search/search"
+
 
 function App() {
 
   return (
     <>
       <Sidebar></Sidebar>
-      <Header></Header>
+      <Main></Main>
     </>
   )
 }
