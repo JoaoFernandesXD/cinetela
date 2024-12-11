@@ -8,3 +8,36 @@
     justify-content: center;
     align-items: center;
 }
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+
+}
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    position: absolute;
+    border-radius: 8px;
+    top: 0;
+    left: 0;
+}
+
+.swiper-slide::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: linear-gradient(90deg,rgba(0, 0, 0, 1) 0%, rgba(10, 10, 10, 0.85) 30%, rgba(15, 15, 15, 0.6) 60%, rgba(25, 23, 23, 0) 100% );
+    z-index: 1; 
+    border-radius: 8px;
+}

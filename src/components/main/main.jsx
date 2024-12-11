@@ -4,7 +4,7 @@ import './main.css';
 /* imports components */
 import Header from '../header/header';
 import Search from '../Search/search';
-import Slide from '../slide/slide';
+import Slide from '../Slide/slide';
 
 
 function Main() {
